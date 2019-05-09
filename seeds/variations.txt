@@ -15,7 +15,6 @@
     "discounted_price": 500
 },
 {
-    "name": "OnePlus 6 128GB Midnight",
     "description": "Android Phone, OnePlus 6 Mirror black with 128GB storage",
     "images": [],
     "product": ObjectId("5cd428032688a306cbdecb94"),
