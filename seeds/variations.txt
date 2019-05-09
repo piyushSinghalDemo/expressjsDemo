@@ -1,0 +1,32 @@
+{
+    "name": "OnePlus 6 128GB Mirror",
+    "description": "Android Phone, OnePlus 6 Midnight black with 128GB storage",
+    "images": [],
+    "product": ObjectId("5cd428032688a306cbdecb94"),
+    "price": 500,
+    "discounted_price": 400
+},
+{
+    "name": "OnePlus 6 256GB Mirror",
+    "description": "Android Phone, OnePlus 6 Midnight black with 256GB storage",
+    "images": [],
+    "product": ObjectId("5cd428032688a306cbdecb94"),
+    "price": 600,
+    "discounted_price": 500
+},
+{
+    "name": "OnePlus 6 128GB Midnight",
+    "description": "Android Phone, OnePlus 6 Mirror black with 128GB storage",
+    "images": [],
+    "product": ObjectId("5cd428032688a306cbdecb94"),
+    "price": 500,
+    "discounted_price": 400
+},
+{
+    "name": "OnePlus 6 256GB Midnight",
+    "description": "Android Phone, OnePlus 6 Mirror black with 256GB storage",
+    "images": [],
+    "product": ObjectId("5cd428032688a306cbdecb94"),
+    "price": 600,
+    "discounted_price": 500
+}

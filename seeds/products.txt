@@ -1,0 +1,18 @@
+{
+    "_id": ObjectId("5cd428032688a306cbdecb94"),
+    "name": "OnePlus 6",
+    "description": "Android Phone",
+    "images": [],
+    "attributes": [ "storage", "color" ],
+    "options": [
+        [ "128GB", "256GB" ],
+        [ "Midnight", "Mirror" ]
+    ]
+},
+{
+    "name": "OnePlus Charger",
+    "description": "Charger for OnePlus Phones",
+    "images": [],
+    "price": 9.99,
+    "discounted_price": 5.99
+}
